@@ -49,6 +49,7 @@ body {
 p {
   line-height: 1.6em;
   font-size: 16px;
+  text-align: left;
 }
 
 .parallax-container {
