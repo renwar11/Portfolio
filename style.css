@@ -49,8 +49,9 @@ body {
 p {
   line-height: 1.6em;
   font-size: 16px;
-  text-justify: distribute;
-  text-justify: newspaper;
+  text-align: justify;
+  text-align: left;
+ 
 }
 
 .parallax-container {
